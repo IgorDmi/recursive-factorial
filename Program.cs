@@ -5,7 +5,6 @@ namespace factorial
 
     class Factorial
     {
-        private int _n;
         private long _resoult;
 
         public long factorialCalc(int i)
